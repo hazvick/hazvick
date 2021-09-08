@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @hazvick
+- 👀 I work as a software engineer in financial systems.
+- 🌱 I’m currently studying Advanced Java Development on the side.
+- 💞️ I’m looking to collaborate on anything really.
